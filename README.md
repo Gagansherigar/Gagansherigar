@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI Engineer
+<bl>AI Engineer</bl>
 <br>Specializing in multi-agent systems, workflow automation, and data pipelines<br>Builds production-ready AI applications:<br>Agent-based decision systems<br>LLM-powered tools<br>Automated data workflows<br>Experienced in Python, LangGraph, and API integrations<br>Focused on solving real-world problems with clean, efficient implementations
 
 
